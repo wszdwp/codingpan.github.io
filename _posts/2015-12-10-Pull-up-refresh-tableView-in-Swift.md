@@ -4,13 +4,9 @@ layout: post
 tags: iOS
 ---
 
-How to detect pull down gesture?	
+# How to detect pull down gesture?	
 
-
-
-
-
-``` swift
+{% highlight swift %} 
 
 	var pullUpDragging:Bool = false
     var pullDownDragging:Bool = false
@@ -56,4 +52,4 @@ How to detect pull down gesture?
         pullDownDragging = false
         updateLabel.hidden = true
     }
-```
+{% endhighlight %}
