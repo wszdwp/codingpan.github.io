@@ -1,0 +1,14 @@
+title: Codingpan's Blog
+email: codingpan2015@gmail.com
+description: > # On the path to be a programmer.
+#this means to ignore newlines until "baseurl:"
+url: "/codingpan.github.io" # the base hostname & protocol for your site
+twitter_username: codingpan
+github_username:  codingpan
+
+# Build settings
+# Conversion
+markdown:    kramdown
+
+excerpt_separator: ""
+
